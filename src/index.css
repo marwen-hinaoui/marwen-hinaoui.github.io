@@ -5,11 +5,11 @@ body {
   font-optical-sizing: auto;
   padding: 0;
   margin: 0;
-  background:url('./bg.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background: linear-gradient(245deg,rgba(0, 0, 0, 1) 0%, rgba(48, 48, 48, 1) 85%, rgba(54, 54, 54, 1) 100%);
 
+
+
+  
 }
 
 html:focus-within {
