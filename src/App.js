@@ -53,7 +53,7 @@ function Header() {
         <h1 className="title">
           Hi, I'm <span className="title-name">MΛRWΞN HINAOUI</span>
         </h1>
-        <p className="subtitle">(🌍Web Developer && 🚀Mobile Developer)</p>
+        <p className="subtitle">(🚀Mobile Developer)</p>
         <p className="about-me">
           I'm a Web and Mobile developer with experience in front-end, back-end, and mobile development. I graduated from the Institute of Technological Studies of Bizerte. I focus on building user-friendly websites and mobile apps, and I'm always looking to learn new technologies and improve my skills.
         </p>
