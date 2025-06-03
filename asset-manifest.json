@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.642a682c.css",
-    "main.js": "./static/js/main.0a0b37e6.js",
+    "main.js": "./static/js/main.ca562d16.js",
     "static/media/educo_mockup.png": "./static/media/educo_mockup.326a30c94b2da2b7652b.png",
+    "static/media/orthominder app mokup.png": "./static/media/orthominder app mokup.c8067786eba2a73262c4.png",
     "static/media/orthominder.png": "./static/media/orthominder.c98261e3ecf26184797a.png",
     "static/media/lookup.png": "./static/media/lookup.896f39c0d9802a1810b8.png",
     "index.html": "./index.html",
     "main.642a682c.css.map": "./static/css/main.642a682c.css.map",
-    "main.0a0b37e6.js.map": "./static/js/main.0a0b37e6.js.map"
+    "main.ca562d16.js.map": "./static/js/main.ca562d16.js.map"
   },
   "entrypoints": [
     "static/css/main.642a682c.css",
-    "static/js/main.0a0b37e6.js"
+    "static/js/main.ca562d16.js"
   ]
 }
