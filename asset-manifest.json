@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.26a41476.css",
-    "main.js": "./static/js/main.3db1cd82.js",
+    "main.css": "./static/css/main.81bd58ee.css",
+    "main.js": "./static/js/main.3df242d8.js",
     "static/media/planet.webp": "./static/media/planet.4ee0a91c205dd3b22465.webp",
     "static/media/educo_mockup.webp": "./static/media/educo_mockup.d2851f7d841e78a394f9.webp",
     "static/media/orthominder app mokup.webp": "./static/media/orthominder app mokup.635c27f29b39d3ec55b2.webp",
     "static/media/orthominder.webp": "./static/media/orthominder.1444e3a38463507fb050.webp",
     "static/media/lookup.webp": "./static/media/lookup.fe1d924f9080033e6ec7.webp",
     "index.html": "./index.html",
-    "main.26a41476.css.map": "./static/css/main.26a41476.css.map",
-    "main.3db1cd82.js.map": "./static/js/main.3db1cd82.js.map"
+    "main.81bd58ee.css.map": "./static/css/main.81bd58ee.css.map",
+    "main.3df242d8.js.map": "./static/js/main.3df242d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.26a41476.css",
-    "static/js/main.3db1cd82.js"
+    "static/css/main.81bd58ee.css",
+    "static/js/main.3df242d8.js"
   ]
 }
